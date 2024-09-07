@@ -9,7 +9,7 @@ int CALLBACK WinMain(
 	LPSTR lpCmdLine,
 	int nCmdShow)
 {
-	Window wnd(800, 300, "Graphix11");
+	Window wnd(800, 300, "Graphix11 Engine");
 
 	MSG msg;
 	BOOL gResult;
